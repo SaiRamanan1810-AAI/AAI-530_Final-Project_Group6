@@ -14,18 +14,21 @@ manage and optimize traffic flow. It will predict traffic conditions in real-tim
 authorities to implement adaptive signal control and better manage road congestion. 
 <ol>
 <li>
+  
   #### Primary Users: 
   <p>City traffic authorities, urban planners, and local governments will use the 
 system to improve traffic safety and flow. Commuters will indirectly benefit through 
 reduced travel times and improved daily commuting experiences. </p>
 </li>
 <li> 
+  
   #### Industry Fit: 
   <p>This application fits into the smart city industry, focusing on intelligent 
 infrastructure for urban mobility and sustainability. It is a step toward building greener 
 and more responsive cities. </p>
 </li>
 <li>
+  
 #### Dataset Details: 
   <ol>
 <li>Source: The dataset will be sourced from Kaggle, using traffic data collected through 
@@ -42,6 +45,7 @@ o Vehicle Count: Number of vehicles detected.
   </ol>
 </li>
 </ol>
+
 ### Expected Outcomes: 
 The smart traffic management system will: 
 <ol>
